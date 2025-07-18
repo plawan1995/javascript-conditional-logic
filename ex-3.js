@@ -1,5 +1,5 @@
-//Exercise 3
-// Ternary Operator
-let lightBulbStatus = "Off";
+// Exercise #3: Shorten Light Bulb
 
-//Start coding here
+let lightBulbStatus = "On";
+
+lightBulbStatus === "On" ? console.log("Light bulb is On.") : console.log("Light bulb is Off.")

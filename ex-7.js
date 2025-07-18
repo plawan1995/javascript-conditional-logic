@@ -1,5 +1,6 @@
-//Start coding here
-const greeting = "Hello ! 😁";
+// Exercise #7 : Debugging (Function)
+
+const greeting = () =>  console.log("Hello ! 😁")
 
 greeting();
 
